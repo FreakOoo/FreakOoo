@@ -27,7 +27,7 @@ My primary language is Python, but I particularly enjoy low-level programming in
 
 ### Custom Split Keyboard
 
-Designed and built a fully custom split mechanical keyboard, including hardware design, firmware configuration, and assembly. (make repo & add link)
+Designed and built a fully custom split mechanical keyboard, including hardware design, firmware configuration, and assembly. (still need to make the documentation, remind me if interested)
 
 ### Game Development in Godot
 
@@ -47,7 +47,3 @@ I have extensive experience with board-level repair, electronics diagnostics, so
 
 I enjoy exploring unusual technologies and computing history. I've written software in Prolog, experimented with TempleOS and HolyC, worked with Bryce 3D (a lot), and generally enjoy learning how different systems are designed.
 
-## Connect
-
-* LinkedIn: [link]
-* Email: [maximechopin02@gmail.com]
